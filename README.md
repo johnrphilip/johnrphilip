@@ -18,27 +18,7 @@ York University, 2023 - 2024
 
 Graduate Studies in Computer Science & Artificial Intelligence
 Projects involving NLP, neural networks, and big data analytics.
-Trafford Council, 2021 - 2023
 
-Special Education Teacher specializing in IEP development.
-NJ Public Schools, 2013 - 2021
-
-Focused on science, maths education, and inclusive classrooms.
-🛠 Projects
-SVM Model for Energy Prediction
-
-Technologies: Python, Pandas, NumPy, Matplotlib, Scikit-learn
-Year: 2023
-
-DABMaster Data Processing Application
-
-Technologies: Python, Tkinter, Pandas, Seaborn, Matplotlib
-Year: 2023
-
-CS50 AI Course Projects
-
-Technologies: Python, Neural Networks, Machine Learning, NLP, Computer Vision
-Year: 2023
 💻 Technical Skills
 Languages: Java, Python, SQL (Postgres), JavaScript, HTML/CSS, R
 Frameworks: React, FastAPI, TensorFlow, PyTorch, scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Django, ggplot2, Spring Boot
