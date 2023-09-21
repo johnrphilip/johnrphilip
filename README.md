@@ -29,10 +29,12 @@ SVM Model for Energy Prediction
 
 Technologies: Python, Pandas, NumPy, Matplotlib, Scikit-learn
 Year: 2023
+
 DABMaster Data Processing Application
 
 Technologies: Python, Tkinter, Pandas, Seaborn, Matplotlib
 Year: 2023
+
 CS50 AI Course Projects
 
 Technologies: Python, Neural Networks, Machine Learning, NLP, Computer Vision
