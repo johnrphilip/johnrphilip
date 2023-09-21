@@ -15,7 +15,6 @@ M.A. in Learning Disabilities & Language Acquisition, Rutgers University, 2017
 B.A. in Education & English, Rutgers University, 2010
 🏢 Experience
 York University, 2023 - 2024
-
 Graduate Studies in Computer Science & Artificial Intelligence
 Projects involving NLP, neural networks, and big data analytics.
 
