@@ -13,6 +13,7 @@ MSc in Computer Science & AI, York University, 2023 - 2024
 Data Analytics Certification, Google/Coursera, 2022
 M.A. in Learning Disabilities & Language Acquisition, Rutgers University, 2017
 B.A. in Education & English, Rutgers University, 2010
+
 🏢 Experience
 York University, 2023 - 2024
 Graduate Studies in Computer Science & Artificial Intelligence
