@@ -22,6 +22,10 @@ Projects involving NLP, neural networks, and big data analytics.
 Languages: Java, Python, SQL (Postgres), JavaScript, HTML/CSS, R
 Frameworks: React, FastAPI, TensorFlow, PyTorch, scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Django, ggplot2, Spring Boot
 Developer Tools: Git, Docker, Google Cloud Platform, VS Code, Visual Studio, PyCharm, IntelliJ, Eclipse
-📫 How to reach me: Email | LinkedIn | GitHub
+### 📫 How to reach me:
+
+- **Email**: [johnrphilip@gmail.com](mailto:johnrphilip@gmail.com)
+- **LinkedIn**: [linkedin.com/in/johnrphilip](https://www.linkedin.com/in/johnrphilip/)
+- **GitHub**: [github.com/johnrphilip](https://github.com/johnrphilip)
 
 ⚡ Fun fact: The fact that we live at the bottom of a deep gravity well, on the surface of a gas-covered planet going around a nuclear fireball 90 million miles away, and think this to be normal, is obviously some indication of how skewed our perspective tends to be.
